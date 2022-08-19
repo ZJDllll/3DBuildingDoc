@@ -1,0 +1,10 @@
+{
+    "title": "Unity建筑可视化开发文档",
+    "author": "GT",
+    "description": "一本集作者十年开发经验的不能称之为书的电子书",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "plugins": [ 
+        "expandable-chapters"
+    ]
+}
